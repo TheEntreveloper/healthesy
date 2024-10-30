@@ -7,11 +7,11 @@ Below are some relevant screenshots:
 
 **Home Screen**
 
-<img src="https://github.com/TheEntreveloper/healthesy/docs/screenshots/Screenshot_home_screen.jpg">
+<img src="https://github.com/TheEntreveloper/healthesy/blob/main/docs/screenshots/Screenshot_home_screen.jpg">
 
 **Notes**
 
-<img src="https://github.com/TheEntreveloper/healthesy/docs/screenshots/Screenshot_notes.jpg">
+<img src="https://github.com/TheEntreveloper/healthesy/blob/main/docs/screenshots/Screenshot_notes.jpg">
 
 _Only health related features, no tracking or anything else. You can build your own version, and 
 deploy to your own device._
